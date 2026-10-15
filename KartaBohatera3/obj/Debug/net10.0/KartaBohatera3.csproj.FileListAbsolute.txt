@@ -1,0 +1,15 @@
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\bin\Debug\net10.0\KartaBohatera3.exe
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\bin\Debug\net10.0\KartaBohatera3.deps.json
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\bin\Debug\net10.0\KartaBohatera3.runtimeconfig.json
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\bin\Debug\net10.0\KartaBohatera3.dll
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\bin\Debug\net10.0\KartaBohatera3.pdb
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\obj\Debug\net10.0\KartaBohatera3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\obj\Debug\net10.0\KartaBohatera3.AssemblyInfoInputs.cache
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\obj\Debug\net10.0\KartaBohatera3.AssemblyInfo.cs
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\obj\Debug\net10.0\KartaBohatera3.csproj.CoreCompileInputs.cache
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\obj\Debug\net10.0\KartaBohatera3.sourcelink.json
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\obj\Debug\net10.0\KartaBohatera3.dll
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\obj\Debug\net10.0\refint\KartaBohatera3.dll
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\obj\Debug\net10.0\KartaBohatera3.pdb
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\obj\Debug\net10.0\KartaBohatera3.genruntimeconfig.cache
+C:\Users\s37558\Pierwsze-decyzje\KartaBohatera3\obj\Debug\net10.0\ref\KartaBohatera3.dll
